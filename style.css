@@ -1,7 +1,7 @@
 .static{
   position: fixed;
   width: 250px;
-  height: 2050px;
+  height: 750px;
   border: none;
   background: skyblue;
   top:0;
@@ -27,6 +27,7 @@ p#about{
   font-family: monospace;
   color: white;
   font-weight: normal;
+  text-align: center;
 }
 ul#lan{
   font-family: sans-serif;
@@ -38,6 +39,8 @@ h2#header{
   color: black;
   background: none;
   text-align: left;
+  top:800px;
+  text-align: center;
 }
 p#paragrap{
 
