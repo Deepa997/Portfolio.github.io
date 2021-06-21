@@ -1,19 +1,19 @@
 .static{
-  position: fixed;
-  width: auto;
-  height: 550px;
+  position: absolute;
+  width: 100%;
+  height: 700px;
   border: none;
   background: skyblue;
   top:0;
   left:0;
 }
-. fix{
-  position: fixed;
+.fix{
+  position: absolute;
   width: auto;
-  height: 550px;
+  height: auto;
   border: none;
   background: white;
-  top:0;
+  top:700px;
   left:0;
 
 }
