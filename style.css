@@ -1,6 +1,6 @@
 .static{
   position: fixed;
-  width: 250px;
+  width: auto;
   height: 750px;
   border: none;
   background: skyblue;
