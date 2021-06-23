@@ -24,7 +24,7 @@ box-shadow: 0 35px 55px rgba(0,0,0,0,1);
 }
 .container .left{
   position: relative;
-  background: #003147;
+  background: blue;
   padding: 40px;
 }
 .container .right{
