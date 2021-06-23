@@ -106,7 +106,7 @@ box-shadow: 0 35px 55px rgba(0,0,0,0,1);
 }
 .skills {
   text-align: right;
-  padding-top: 2px;
+  padding-top: 5px;
   padding-bottom: 2px;
   color: white;
 
@@ -114,20 +114,25 @@ box-shadow: 0 35px 55px rgba(0,0,0,0,1);
 .html{
   width: 90%;
   background: #04AA6D;
+  margin-bottom: 10px;
 }
 .css{
   width: 90%;
   background: #04AA6D;
+  margin-bottom: 10px;
 }
 .javascript{
   width: 50%;
   background: #f44336;
+  margin-bottom: 10px;
 }
 .Java{
   width: 60%;
   background:yellow;
+  margin-bottom: 10px;
 }
 .sharp{
   width: 60%;
   background:yellow;
+  margin-bottom: 10px;
 }
